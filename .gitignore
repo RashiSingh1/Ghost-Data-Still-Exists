@@ -1,0 +1,25 @@
+# Environment variables and API keys
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Test and tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+# Challenge submission artifacts and local backups
+agent-trace/
+agent-trace-check/
+backup-*/
+backup_before_final_test/
+*.zip
+*.before-*
+log.txt
