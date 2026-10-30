@@ -193,3 +193,8 @@ Credentials and API keys must be stored outside tracked source files. Environmen
 ## Project Objective
 
 The goal is not merely to determine whether a deletion workflow completed. It is to establish whether the available evidence supports the required deletion state, identify unresolved risks, and provide a structured path toward verified compliance.
+
+
+## Author
+
+**Rashi Kumari**
